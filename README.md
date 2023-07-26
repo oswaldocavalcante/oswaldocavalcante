@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Oswaldo Cavalcante</h1> 
+
+<!--
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oswaldocavalcante&show_icons=true&theme=github_dark_dimmed&bg_color=00000000)](#)
+
+</div>
+-->
 
 <!--
 **oswaldocavalcante/oswaldocavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
