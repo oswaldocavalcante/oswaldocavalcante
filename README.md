@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Oswaldo Cavalcante</h2> 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://www.oswaldocavalcante.com/wp-content/uploads/2021/02/IMG_20201211_113024_613.jpg" style="border-radius: 100" />
-</div>
+</div> -->
 
 ###
 
